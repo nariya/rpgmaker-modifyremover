@@ -5,6 +5,12 @@
 
 To remove no-affectional modification of RPGMaker-MV config file.
 
+https://qiita.com/nariya/items/eac6d2040ffc4330b2c3
+簡単に言うとgitでツクール管理するときに問題になる勝手な変更を削除するためのツールです。
+git commit 前にpre-commitとかから叩くのがおすすめ。
+
+
+define.jsonと一緒に、プロジェクトのdataフォルダにブチ込んで使って下さい
 
 ===========
 License
